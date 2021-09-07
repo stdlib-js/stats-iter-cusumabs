@@ -149,6 +149,22 @@ while ( true ) {
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/stats/iter/cumeanabs`][@stdlib/stats/iter/cumeanabs]: create an iterator which iteratively computes a cumulative arithmetic mean of absolute values.
+-   [`@stdlib/stats/iter/cusum`][@stdlib/stats/iter/cusum]: create an iterator which iteratively computes a cumulative sum.
+-   [`@stdlib/stats/iter/sumabs`][@stdlib/stats/iter/sumabs]: compute the sum of absolute values for all iterated values.
+
+</section>
+
+<!-- /.related -->
+
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 
@@ -207,6 +223,16 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/stats-iter-cusumabs/main/LICENSE
 
 [mdn-iterator-protocol]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols#The_iterator_protocol
+
+<!-- <related-links> -->
+
+[@stdlib/stats/iter/cumeanabs]: https://github.com/stdlib-js/stats-iter-cumeanabs
+
+[@stdlib/stats/iter/cusum]: https://github.com/stdlib-js/stats-iter-cusum
+
+[@stdlib/stats/iter/sumabs]: https://github.com/stdlib-js/stats-iter-sumabs
+
+<!-- </related-links> -->
 
 </section>
 
