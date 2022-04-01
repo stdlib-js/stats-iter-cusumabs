@@ -1,0 +1,44 @@
+{
+  "name": "@stdlib/stats-iter-cusumabs",
+  "version": "0.0.0",
+  "description": "Create an iterator which iteratively computes a cumulative sum of absolute values.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/stats-iter-cusumabs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "statistics",
+    "stats",
+    "mathematics",
+    "math",
+    "sum",
+    "summation",
+    "total",
+    "accumulate",
+    "absolute",
+    "value",
+    "math.abs",
+    "abs",
+    "magnitude",
+    "cumulative sum",
+    "cumulative total",
+    "cumulative",
+    "csum",
+    "cumsum",
+    "iterator",
+    "iterable",
+    "iterate"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
