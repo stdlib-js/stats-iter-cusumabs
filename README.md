@@ -65,6 +65,11 @@ The cumulative sum of absolute values is defined as
 ## Usage
 
 ```javascript
+import itercusumabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-iter-cusumabs@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-iter-cusumabs/tags). For example,
+
+```javascript
 import itercusumabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-iter-cusumabs@v0.2.0-deno/mod.js';
 ```
 
@@ -120,7 +125,7 @@ s = it.next().value;
 
 ```javascript
 import runif from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-iter-uniform@deno/mod.js';
-import itercusumabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-iter-cusumabs@v0.2.0-deno/mod.js';
+import itercusumabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-iter-cusumabs@deno/mod.js';
 
 // Create an iterator for generating uniformly distributed pseudorandom numbers:
 var rand = runif( -10.0, 10.0, {
