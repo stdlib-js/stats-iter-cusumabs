@@ -65,7 +65,7 @@ The cumulative sum of absolute values is defined as
 ## Usage
 
 ```javascript
-import itercusumabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-iter-cusumabs@esm/index.mjs';
+import itercusumabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-iter-cusumabs@v0.2.1-esm/index.mjs';
 ```
 
 #### itercusumabs( iterator )
@@ -125,7 +125,7 @@ s = it.next().value;
 <script type="module">
 
 import runif from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-iter-uniform@esm/index.mjs';
-import itercusumabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-iter-cusumabs@esm/index.mjs';
+import itercusumabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-iter-cusumabs@v0.2.1-esm/index.mjs';
 
 // Create an iterator for generating uniformly distributed pseudorandom numbers:
 var rand = runif( -10.0, 10.0, {
